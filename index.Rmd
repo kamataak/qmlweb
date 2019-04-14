@@ -1,5 +1,8 @@
 ---
-title: "QML Website"
+title: "Quantitative Methods Lab"
+description: |
+  Southern Methodist University
 site: distill::distill_website
 listing: posts
 ---
+
