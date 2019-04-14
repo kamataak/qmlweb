@@ -1,0 +1,44 @@
+---
+title: "About QML"
+description: |
+  Quantitative Methods Lab at Southern Methodist University
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Who we are
+Quantitative Methods Lab is a research group at Southern Methodist University. We are not officially affiliated to any specific academic/service unit, but we are housed at the Center on Research and Evaluation (CORE) at SMU. We actively study and conduct research on various topics on quantitative methods in behavioral science and educational research. 
+
+## Activities
+The QML engages in:
+
+1. Organizing Conference
+2. Presentations
+3. Publications
+    
+## Members
+### Director
+**Akihito Kamata** is a Professor at Southern Methodist University (Department of Education Policy & Leadership, and Department of Psychology), and the Executive Director at the [Center on Research and Evaluation](https://www.smu.edu/simmons/Research/CORE). His primary research interest is psychometrics and educational and psychological measurement, focusing on implementation of item-level test data analysis methodology through various modeling framework, including item response theory, multilevel modeling, and structural equation modeling.  
+
+<aside>
+![](https://www.smu.edu/-/media/Site/Simmons/Research/CORE/Team/25985D_095_Kamata-2.jpg?h=208&la=en&w=208&hash=8BAE4AAE98C979C25E377B0F76C503C2)
+</aside>
+
+### Faculty / Staff
+**Cornelis Potgieter** (Department of Statistical Science, SMU)  
+**Xinya Liang** (College of Education, University of Arkansas)  
+**Chalie Patarapichayatham** (Simmons School of Education, SMU)  
+**Yusuf Kara** (Simmons School of Education, SMU)  
+**Elisa Gallegos** (Simmons School of Education, SMU)  
+
+### Ph.D. Students
+**Patrick Lan** (SMU)  
+**Hao Ma** (SMU)  
+**Mo Zhao** (SMU)  
+**Nancy Le** (SMU)  
+**Ji Li** (Arkansas)  
+
+### Visiting Scholar
+**Gonca Usta** (Bozok University, Turkey)  

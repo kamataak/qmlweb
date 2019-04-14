@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555280724709.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "116389093",
+    "id" : "177D2193",
+    "lastKnownWriteTime" : 1555280721,
+    "last_content_update" : 1555280721,
+    "path" : "~/qmlweb/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

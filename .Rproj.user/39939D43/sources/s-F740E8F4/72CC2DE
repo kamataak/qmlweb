@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555280938962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1123781967",
+    "id" : "72CC2DE",
+    "lastKnownWriteTime" : 1555280986,
+    "last_content_update" : 1555280986265,
+    "path" : "~/qmlweb/_posts/welcome/welcome.Rmd",
+    "project_path" : "_posts/welcome/welcome.Rmd",
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

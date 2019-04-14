@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555280875180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3006094993",
+    "id" : "DF1AE6CC",
+    "lastKnownWriteTime" : 1555280905,
+    "last_content_update" : 1555280905163,
+    "path" : "~/qmlweb/_posts/2019-04-14-aerancme-2019/aerancme-2019.Rmd",
+    "project_path" : "_posts/2019-04-14-aerancme-2019/aerancme-2019.Rmd",
+    "properties" : {
+        "cursorPosition" : "55,708",
+        "scrollLine" : "48"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

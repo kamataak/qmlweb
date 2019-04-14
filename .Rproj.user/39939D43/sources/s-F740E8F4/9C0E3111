@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555280725030.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "804082806",
+    "id" : "9C0E3111",
+    "lastKnownWriteTime" : 1555280721,
+    "last_content_update" : 1555280721,
+    "path" : "~/qmlweb/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
