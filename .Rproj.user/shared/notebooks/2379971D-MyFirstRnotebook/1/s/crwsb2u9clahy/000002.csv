@@ -1,0 +1,13 @@
+"0","```r
+library(DiagrammeR)
+grViz(\"
+digraph rmarkdown {
+node [shape = box]
+x1; x2
+node [shape = circle]
+y
+x1 -> y;
+x2 -> y;
+}
+\", height=150)
+```"

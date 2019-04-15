@@ -1,0 +1,5 @@
+"0","```r
+fitMA00$results$parameters %>% 
+  knitr::kable(format = \"html\") %>% 
+  kableExtra::kable_styling(bootstrap_options=\"striped\", full_width=F)
+```"

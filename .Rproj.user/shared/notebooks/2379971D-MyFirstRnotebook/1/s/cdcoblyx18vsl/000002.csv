@@ -1,0 +1,9 @@
+"0","```r
+RegByMA00 <- mplusObject(
+  MODEL = \"y on x1 x2;\",
+  rdata = dat02)
+fitMA00 <- mplusModeler(RegByMA00,
+                        modelout=\"regByMA01.inp\",
+                        run = T)
+fitMA00$results$parameters
+```"

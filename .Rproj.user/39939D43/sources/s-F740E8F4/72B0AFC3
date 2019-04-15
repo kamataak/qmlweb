@@ -5,15 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1065066211",
+    "hash" : "1031106705",
     "id" : "72B0AFC3",
-    "lastKnownWriteTime" : 1555282691,
-    "last_content_update" : 1555282691231,
+    "lastKnownWriteTime" : 1555294610,
+    "last_content_update" : 1555294610768,
     "path" : "~/qmlweb/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
-        "cursorPosition" : "56,154",
-        "scrollLine" : "38"
+        "cursorPosition" : "35,245",
+        "ignored_words" : "Kamata,Ph\n",
+        "scrollLine" : "30"
     },
     "read_only" : false,
     "read_only_alternatives" : [
