@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3792606108",
+    "hash" : "0",
     "id" : "D98B6A06",
-    "lastKnownWriteTime" : 1555321464,
-    "last_content_update" : 1555321464474,
+    "lastKnownWriteTime" : 1555322188,
+    "last_content_update" : 1555322188248,
     "path" : "~/qmlweb/_posts/2019-04-15-tuesap-2019/tuesap-2019.Rmd",
     "project_path" : "_posts/2019-04-15-tuesap-2019/tuesap-2019.Rmd",
     "properties" : {
-        "cursorPosition" : "7,10",
+        "cursorPosition" : "18,0",
         "scrollLine" : "0"
     },
     "read_only" : false,
