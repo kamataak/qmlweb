@@ -15,21 +15,6 @@
     "last_modified": "2019-04-14T17:46:48-05:00"
   },
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to QML Website",
-    "description": "Quantitative Methods Lab is a research group at Southern Methodist University. We are not officially affiliated to any specific academic/service unit, but we are housed at the Center on Research and Evaluation (CORE) at SMU. We actively study and conduct research on various topics on quantitative methods in behavioral science and educational research.",
-    "author": [
-      {
-        "name": "Akihito Kamata",
-        "url": {}
-      }
-    ],
-    "date": "2019-04-14",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-04-14T17:46:54-05:00"
-  },
-  {
     "path": "posts/2019-04-15-tuesap-2019/",
     "title": "TUESAP 2019",
     "description": "QML organized Texas Universities Educational Statistics and Psychometrics (TUESAP) conference (Feb 28 & Mar 1, 2019). [TUESAP website](https://www.smu.edu/simmons/Research/CORE/TUESAP)",
@@ -39,9 +24,24 @@
         "url": {}
       }
     ],
-    "date": "2019-04-10",
+    "date": "2019-04-01",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-04-15T04:36:08-05:00"
+    "last_modified": "2019-04-15T04:44:25-05:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to QML Website",
+    "description": "Quantitative Methods Lab is a research group at Southern Methodist University. We are not officially affiliated to any specific academic/service unit, but we are housed at the Center on Research and Evaluation (CORE) at SMU. We actively study and conduct research on various topics on quantitative methods in behavioral science and educational research.",
+    "author": [
+      {
+        "name": "Akihito Kamata",
+        "url": {}
+      }
+    ],
+    "date": "2019-01-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-04-15T04:44:02-05:00"
   }
 ]

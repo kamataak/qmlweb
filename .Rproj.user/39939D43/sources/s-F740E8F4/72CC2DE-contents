@@ -4,7 +4,7 @@ description: |
   Quantitative Methods Lab is a research group at Southern Methodist University. We are not officially affiliated to any specific academic/service unit, but we are housed at the Center on Research and Evaluation (CORE) at SMU. We actively study and conduct research on various topics on quantitative methods in behavioral science and educational research.
 author:
   - name: Akihito Kamata 
-date: 04-14-2019
+date: 01-01-2019
 output:
   distill::distill_article:
     self_contained: false

@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2227206851",
     "id" : "72CC2DE",
-    "lastKnownWriteTime" : 1555281868,
-    "last_content_update" : 1555281868335,
+    "lastKnownWriteTime" : 1555321441,
+    "last_content_update" : 1555321441217,
     "path" : "~/qmlweb/_posts/welcome/welcome.Rmd",
     "project_path" : "_posts/welcome/welcome.Rmd",
     "properties" : {
-        "cursorPosition" : "8,27",
+        "cursorPosition" : "6,8",
         "scrollLine" : "0"
     },
     "read_only" : false,
