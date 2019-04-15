@@ -11,13 +11,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Who we are
 Quantitative Methods Lab is a research group at Southern Methodist University. We are not officially affiliated to any specific academic/service unit, but housed at the Center on Research and Evaluation (CORE) at SMU. The membership of the QML is cross-institutional, and its members actively study and collaborate on various research topics on quantitative methods in behavioral science and educational research. 
 
-## Activities
-The QML engages in:
-
-1. Organizing Conference
-2. Presentations
-3. Publications
-    
 ## Members
 ### Director
 **Akihito Kamata** is a Professor at Southern Methodist University (Department of Education Policy & Leadership, and Department of Psychology), and the Executive Director at the [Center on Research and Evaluation](https://www.smu.edu/simmons/Research/CORE). His primary research interest is psychometrics and educational and psychological measurement, focusing on implementation of item-level test data analysis methodology through various modeling framework, including item response theory, multilevel modeling, and structural equation modeling.  
@@ -27,10 +20,10 @@ The QML engages in:
 </aside>
 
 ### Faculty / Staff
-**Cornelis Potgieter** His research interests includes Nonparametric statistics, applications of characteristic functions, spatial statistics, capture-recapture methods, measurement error and latent variable models, generalized skew-symmetric distributions. (Department of Statistical Science, SMU)  
+**Yusuf Kara** is a Senior Program Manager at the Center on Research and Evaluation at SMU. His research interests primarily focus on contemporary psychometric methods such as multilevel item response modeling, structural equation modeling, and mediation analysis.(Simmons School of Education, SMU)  
 
 <aside>
-![](https://www.smu.edu/-/media/Site/Dedman/Departments/Statistics/NelisPotgieter2.JPG?h=180&la=en&w=120&hash=CAF595AB7018B78418FD3E6C922716E7){width=150}
+![](https://www.smu.edu/simmons/Research/CORE/~/media/Site/Simmons/Research/CORE/Team/YKara_416x416){width=150}
 </aside>
 
 **Xinya Liang** is Assistant Professor of Educational Statistics and Research Methods. She research interests includes Structural equation modeling, Bayesian data analysis, Multilevel modeling, Measurement Invariance, and Large-Scale Assessment. (College of Education and Health Professions, University of Arkansas)  
@@ -45,18 +38,17 @@ The QML engages in:
 ![](https://www.smu.edu/-/media/Site/Simmons/AboutUs/Faculty/Patarapichayatham-Photo.jpg?h=200&la=en&w=175&hash=58D260DAA3C3028CE3C60A3F69DDD1D6){width=150}
 </aside>
 
-**Yusuf Kara** is a Senior Program Manager at the Center on Research and Evaluation at SMU. His research interests primarily focus on contemporary psychometric methods such as multilevel item response modeling, structural equation modeling, and mediation analysis.(Simmons School of Education, SMU)  
-
-<aside>
-![](https://www.smu.edu/simmons/Research/CORE/~/media/Site/Simmons/Research/CORE/Team/YKara_416x416){width=150}
-</aside>
-
 **Elisa Gallegos** has over 10 years of experience managing research projects, coordinating project activities, and creating and managing databases. Her interests include studying child development and learning through a neuropsychological lens and examining the systems involving children (e.g., schools, CPS).(Simmons School of Education, SMU)  
 
 <aside>
 ![](https://www.smu.edu/-/media/Site/Simmons/Research/CORE/Team/CORE-_0006_26754D_095_Gallegos.jpg?h=208&la=en&w=208&hash=D61770017E6AFFF491E44401BE39C36A){width=150}
 </aside>
 
+**Cornelis Potgieter** His research interests includes Nonparametric statistics, applications of characteristic functions, spatial statistics, capture-recapture methods, measurement error and latent variable models, generalized skew-symmetric distributions. (Department of Statistical Science, SMU)  
+
+<aside>
+![](https://www.smu.edu/-/media/Site/Dedman/Departments/Statistics/NelisPotgieter2.JPG?h=180&la=en&w=120&hash=CAF595AB7018B78418FD3E6C922716E7){width=150}
+</aside>
 
 ### Ph.D. Students
 **Patrick Lan** (SMU)  
