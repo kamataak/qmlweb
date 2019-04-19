@@ -6,7 +6,11 @@ output_dir: "docs"
 navbar:
   left:
     - text: "About QML"
-      href: about.html
+      menu:
+        - text: "Who We are"
+          href: about.html
+        - text: "Members"
+          href: about.html
     - text: "Home"
       href: index.html
 output: distill::distill_article
