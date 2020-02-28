@@ -1,0 +1,45 @@
+---
+title: "AERA/NCME 2020"
+description: |
+  QML members will be active at 2020 AERA/NCME Annual Meeting in San Francisco: April 16 - 21, 2020. Here is the list of presentations by QML members.
+author:
+  - name: Akihito Kamata
+date: 02-28-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Equating Oral Reading Fluency Scores: A Model-Based Approach
+    - **Kamata, A., Kara, Y., Potgieter, C.**, & Nese, J. F. T.
+        - This study demonstrates and evaluates equating procedures for the oral reading fluency (ORF) scores estimated by a latent binomial-lognormal joint model. Preliminary results showed that model-based ORF scores should be preferred over observed words correct per minute measures for passages that have been equated by the common-item non-equivalent group design.
+
+Two Parameter Multilevel IRT Model with Heterogeneous Within-Group Variances
+    - **Kara, Y., & Kamata, A.**
+        - This study proposes a two-parameter multilevel IRT model with heterogeneous within-group variances. We introduce the model equations along with parameter estimation procedure adopting the Bayesian approach.
+        
+Prediction of Reading Fluency Scores with Silence Tendencies Using Machine Learning Algorithms
+    - **Patarapichayatham, C., Kamata, A., Kara, Y., & Le, N. T.**
+        - This study investigates evidence for meaningful pauses that are believed to be made by fluent readers in the context of oral reading fluency (ORF) assessments. We derive various variables from between-word silence relative to total reading time and fit machine learning algorithms to classify readers into groups of ORF levels.
+
+Preliminary Consequential Validity Evidence for a Computerized Oral Reading Fluency Assessment
+    - Nese, J. F. T., Anderson, D. J., & **Kamata, A.**
+        - Curriculum-based measurement of oral reading fluency (ORF) is used to identify students at-risk for poor learning outcomes through screening assessments, and to monitor student progress to help guide and inform instructional decision-making. The purpose of this study was to compare the consequential validity properties of CORE and a traditional ORF assessment (easyCBM) for students in Grades 2 through 4. We found good evidence for the predictive and concurrent validity of CORE (comparable to traditional ORF), and improved properties of reliability for CORE compared to traditional ORF from a longitudinal design. We discuss the implications of these results for practitioners using these classroom assessments.  
+
+
+Examining the Preservice School Principals' Impromptu Speech Skills With a Many-Facet Rasch Model
+    - **Hsieh, M. C., & Kamata, A.**
+        - The Purpose of this study is to investigate the usefulness of the Many-Facet Rasch Model (MFRM) in evaluating the impromptu speech skills of pre-service principals. Different Facets, including the ability of pre-service principals, scoring criteria, rater severity, rater gender, and topic types are examined. Data with a sample of 186 pre-service principals rated by 9 raters were used in this study. The results of this study show that the MFRM provides a scientific approach to assessment which can reveal some diagnostic information from the original ordinal rating scores.
+        
+Spanish and English Biliteracy: A Linear Growth Model for Two Parallel Processes
+    - **Patarapichayatham, C.**, & Nevin, V.
+        - This study investigated how growth in English and Spanish language literacy skills were related in a biliteracy setting. Data were collected in a school district in New Mexico in first, second, and third grades in 2018-19 school year. The classrooms were a two-way dual language immersion model that begins in kindergarten with instruction that is 80% in Spanish. At each subsequent grade level, the proportion is altered until it reaches 50/50 by third grade. Each student took ISIP English and ISIP Spanish assessments monthly from October to May. A linear growth model for two parallel processes under SEM framework is utilized using Mplus software. Results showed that a student develops their biliteracy skills faster in first grade.
+        
+Early Identification of Dyslexia: Can the Istation Indicators of Progress (ISIP) Screen for Risk in Kindergarten?
+    - Nevin, V. & **Patarapichayatham, C.**
+        - The ISIP-ER is a formative assessment used by over 4 million school children in the United States. It is used as both a benchmarking as well as progress monitoring assessment. This research investigates if the ISIP-ER can assess the risk of dyslexia as early as fall of kindergarten. Significant differences between students at risk for dyslexia and those who are not are found in the Overall ISIP score, Phonemic Awareness, and Letter Knowledge. Use of the Istation Integrated Learning System may mediate the risk of dyslexia.
+        

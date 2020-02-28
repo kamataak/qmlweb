@@ -1,0 +1,21 @@
+---
+title: "Publications in 2020"
+description: |
+  QML members are active publishing papers in peer-reviewed journals. Here is the list of publications by QML members in 2020.
+author:
+  - name: Akihito Kamata
+    url: {}
+date: 02-28-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Kara, Y., Kamata, A., Potgieter, C.**, & Nese, J. F. T. (2020). Estimating model-based oral reading fluency: A Bayesian approach. *Educational and Psychological Measurement*. doi:10.1177/0013164419900208
+
+**Liang, X., Kamata, A., & Li, J.** (2020). Hierarchical Bayese approach to estimate the treatment effect for randomized controlled trials. *Educational and Psychological Measurement*. doi:10.1177/0013164420909885
+
