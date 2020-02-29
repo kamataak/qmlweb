@@ -40,5 +40,4 @@ Spanish and English Biliteracy: A Linear Growth Model for Two Parallel Processes
         
 Early Identification of Dyslexia: Can the Istation Indicators of Progress (ISIP) Screen for Risk in Kindergarten?  
     - Locke, V. N. & **Patarapichayatham, C.**  
-        - The ISIP-ER is a formative assessment used by over 4 million school children in the United States. It is used as both a benchmarking as well as progress monitoring assessment. This research investigates if the ISIP-ER can assess the risk of dyslexia as early as fall of kindergarten. Significant differences between students at risk for dyslexia and those who are not are found in the Overall ISIP score, Phonemic Awareness, and Letter Knowledge. Use of the Istation Integrated Learning System may mediate the risk of dyslexia.
-        
+        - The ISIP-ER is a formative assessment used by over 4 million school children in the United States. It is used as both a benchmarking as well as progress monitoring assessment. This research investigates if the ISIP-ER can assess the risk of dyslexia as early as fall of kindergarten. Significant differences between students at risk for dyslexia and those who are not are found in the Overall ISIP score, Phonemic Awareness, and Letter Knowledge. Use of the Istation Integrated Learning System may mediate the risk of dyslexia.  
