@@ -44,7 +44,7 @@ Quantitative Methods Lab is a research group at Southern Methodist University. W
 ![](https://www.smu.edu/-/media/Site/Simmons/Research/CORE/Team/CORE-_0006_26754D_095_Gallegos.jpg?h=208&la=en&w=208&hash=D61770017E6AFFF491E44401BE39C36A){width=150}
 </aside>
 
-**Cornelis Potgieter** is Assistant Professor in the Department of Statistical science at SMU. His research interests includes Nonparametric statistics, applications of characteristic functions, spatial statistics, capture-recapture methods, measurement error and latent variable models, generalized skew-symmetric distributions.  
+**Cornelis Potgieter** is Assistant Professor in the Department of Mathematics at Texas Christian University (TCU). His research interests includes Nonparametric statistics, applications of characteristic functions, spatial statistics, capture-recapture methods, measurement error and latent variable models, generalized skew-symmetric distributions.  
 
 <aside>
 ![](https://www.smu.edu/-/media/Site/Dedman/Departments/Statistics/NelisPotgieter2.JPG?h=180&la=en&w=120&hash=CAF595AB7018B78418FD3E6C922716E7){width=150}
