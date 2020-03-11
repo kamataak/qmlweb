@@ -1,4 +1,0 @@
-"0","```r
-dat02 <- read.table(\"ex3.9.dat\")
-colnames(dat02) <- c(\"y\", \"x1\", \"x2\")
-```"
