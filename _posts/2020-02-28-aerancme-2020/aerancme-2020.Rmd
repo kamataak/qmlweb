@@ -1,7 +1,8 @@
 ---
 title: "AERA/NCME 2020"
 description: |
-  QML members will be active at 2020 AERA/NCME Annual Meeting in San Francisco: April 16 - 21, 2020. Here is the list of presentations by QML members.
+  QML members will be active at 2020 AERA/NCME Annual Meeting in San Francisco: April 16 - 21, 2020. Here is the list of presentations by QML members.  
+  UPDATE: Unfortunately, the conference has been canceled due to concerns related COVID-19.
 author:
   - name: Akihito Kamata
 date: 02-28-2020
