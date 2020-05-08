@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-28-pubs-03-2020/",
+    "title": "Publications in 2020",
+    "description": "QML members are active publishing papers in peer-reviewed journals. Here is the list of publications by QML members in 2020.",
+    "author": [
+      {
+        "name": "Akihito Kamata",
+        "url": {}
+      }
+    ],
+    "date": "2020-05-08",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-08T08:55:31-05:00"
+  },
+  {
     "path": "posts/2020-02-28-aerancme-2020/",
     "title": "AERA/NCME 2020",
     "description": "QML members will be active at 2020 AERA/NCME Annual Meeting in San Francisco: April 16 - 21, 2020. Here is the list of presentations by QML members.  \nUPDATE: Unfortunately, the conference has been canceled due to concerns related COVID-19.",
@@ -13,21 +28,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-03-12T15:21:00-05:00"
-  },
-  {
-    "path": "posts/2020-02-28-pubs-03-2020/",
-    "title": "Publications in 2020",
-    "description": "QML members are active publishing papers in peer-reviewed journals. Here is the list of publications by QML members in 2020.",
-    "author": [
-      {
-        "name": "Akihito Kamata",
-        "url": {}
-      }
-    ],
-    "date": "2020-02-28",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-03-12T15:23:33-05:00"
   },
   {
     "path": "posts/2019-04-14-aerancme-2019/",

@@ -5,7 +5,7 @@ description: |
 author:
   - name: Akihito Kamata
     url: {}
-date: 02-28-2020
+date: 05-08-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -15,9 +15,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+**Hsieh, M., & Kamata, A.** (in press). Examining the pre-service school principals’ impromptu speech skill with a many-facet Rasch model. *Journal of Applied Measurement*.
+
 **Kara, Y., Kamata, A., Potgieter, C.**, & Nese, J. F. T. (2020). Estimating model-based oral reading fluency: A Bayesian approach. *Educational and Psychological Measurement*. doi:10.1177/0013164419900208
 
-**Liang, X.** (2020). Prior sensitivity in Bayesian structural equation modeling for sparse factor loading structures. *Educational and Psychological Measurement*
+**Liang, X.** (2020). Prior sensitivity in Bayesian structural equation modeling for sparse factor loading structures. *Educational and Psychological Measurement*. doi:10.1177%2F0013164420909885
 
 **Liang, X., Kamata, A., & Li, J.** (2020). Hierarchical Bayese approach to estimate the treatment effect for randomized controlled trials. *Educational and Psychological Measurement*. doi:10.1177/0013164420909885
 
