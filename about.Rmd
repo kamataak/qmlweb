@@ -13,7 +13,7 @@ Quantitative Methods Lab is a research group at Southern Methodist University. W
 
 ## Members
 ### Director
-**Akihito Kamata** is a Professor at Southern Methodist University (Department of Education Policy & Leadership, and Department of Psychology), and the Executive Director at the [Center on Research and Evaluation](https://www.smu.edu/simmons/Research/CORE). His primary research interest is psychometrics and educational and psychological measurement, focusing on implementation of item-level test data analysis methodology through various modeling framework, including item response theory, multilevel modeling, and structural equation modeling.  
+**Akihito Kamata** is a Professor at Southern Methodist University (Department of Education Policy & Leadership, and Department of Psychology). His primary research interest is psychometrics and educational and psychological measurement, focusing on implementation of item-level test data analysis methodology through various modeling framework, including item response theory, multilevel modeling, and structural equation modeling.  
 
 <aside>
 ![](https://www.smu.edu/-/media/Site/Simmons/Research/CORE/Team/25985D_095_Kamata-2.jpg?h=208&la=en&w=208&hash=8BAE4AAE98C979C25E377B0F76C503C2){width=150}
@@ -38,12 +38,6 @@ Quantitative Methods Lab is a research group at Southern Methodist University. W
 ![](https://www.smu.edu/-/media/Site/Simmons/AboutUs/Directory/EducationPolicyLeadership/Chalie-Patarapichayatham.jpg?h=375&la=en&w=250&hash=628B3D31525F897AD6F9DFC9E0F7EC11){height=175}
 </aside>
 
-**Elisa Gallegos** is Senior Program Specialist at the Center on Research and Evaluation at Simmons School of Education and Human Development, SMU. Her interests include studying child development and learning through a neuropsychological lens and examining the systems involving children.(Simmons School of Education, SMU)  
-
-<aside>
-![](https://www.smu.edu/-/media/Site/Simmons/Research/CORE/Team/CORE-_0006_26754D_095_Gallegos.jpg?h=208&la=en&w=208&hash=D61770017E6AFFF491E44401BE39C36A){width=150}
-</aside>
-
 **Cornelis Potgieter** is Assistant Professor in the Department of Mathematics at Texas Christian University (TCU). His research interests includes Nonparametric statistics, applications of characteristic functions, spatial statistics, capture-recapture methods, measurement error and latent variable models, generalized skew-symmetric distributions.  
 
 <aside>
@@ -52,10 +46,15 @@ Quantitative Methods Lab is a research group at Southern Methodist University. W
 
 ### Ph.D. Students
 **Patrick Lan** (SMU)  
-**Hao Ma** (SMU)  
-**Mo Zhao** (SMU)  
 **Nancy Le** (SMU)  
+**Kuo Wang** (SMU)
 **Ji Li** (Arkansas)  
+
+### Visiting Scholar
+**Sarunya Somsong (Srinakharinwirot University, Thailand)
+
+### Former Ph.D. Students
+**Hao Ma** (SMU)  
 
 ### Former Visiting Scholars
 **Gonca Usta** (Cumhuriyet University, Turkey)  
