@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Who we are
-Quantitative Methods Lab is a research group at Southern Methodist University. We are not officially affiliated to any specific academic/service unit, but housed at the Center on Research and Evaluation (CORE) at SMU. The membership of the QML is cross-institutional, and its members actively study and collaborate on various research topics on quantitative methods in behavioral science and educational research. 
+Quantitative Methods Lab is a research group at Southern Methodist University. We are not officially affiliated to any specific academic/service unit, but housed at the Center on Research and Evaluation (CORE) at SMU. The membership of the QML is cross-institutional, and its members actively study and collaborate on various research topics on quantitative methods and psychometrics in behavioral science and educational research. 
 
 ## Members
 ### Director
