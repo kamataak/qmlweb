@@ -44,14 +44,23 @@ Quantitative Methods Lab is a research group at Southern Methodist University. W
 ![](https://www.smu.edu/-/media/Site/Dedman/Departments/Statistics/NelisPotgieter2.JPG?h=180&la=en&w=120&hash=CAF595AB7018B78418FD3E6C922716E7){height=175}
 </aside>
 
+**Xin Qiao** is a Post-Doctoral Fellow at Simmons School of Education and Human Development at SMU, funded by two IES grants. She graduated from University of Maryland, College Park in August 2021. Her research interests include cognitive diagnostic models and process data analysis in educational assessment contexts.
+
+<aside>
+![](photos/XinQiao.jpg){height=175}
+</aside>
+
+**Sarunya Somsong** is a Visiting Scholar at Simmons School of Education and Human Development at SMU, funded by an IES grant to develop an R package for oral reading fluency (ORF) assessment data. She is currently a Ph.D. student in Applied Behavioral Science Research at Srinakharinwirot University in Thailand. She holds a master's degree in statistics from Chulalongkorn University in Thailand.
+
+<aside>
+![](photos/SarunyaSomsong.jpg){height=175}
+</aside>
+
 ### Ph.D. Students
 **Patrick Lan** (SMU)  
 **Nancy Le** (SMU)  
 **Kuo Wang** (SMU)  
 **Ji Li** (Arkansas)  
-
-### Visiting Scholar
-**Sarunya Somsong** (Srinakharinwirot University, Thailand)
 
 ### Former Ph.D. Students
 **Hao Ma** (Currently at Houston Education Research Consortium, Rice University)  
